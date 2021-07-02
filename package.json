@@ -1,0 +1,15 @@
+{
+  "name": "@travi/jest-ts-reproduction",
+  "version": "0.0.1",
+  "description": "minimal reproduction of renovate grouping of jest + ts-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "26.6.3",
+    "ts-jest": "27.0.3"
+  }
+}
