@@ -9,7 +9,7 @@
   "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
   "license": "ISC",
   "devDependencies": {
-    "jest": "27.1.0",
+    "jest": "27.2.0",
     "ts-jest": "27.0.5"
   }
 }
